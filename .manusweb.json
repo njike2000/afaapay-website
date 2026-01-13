@@ -1,0 +1,7 @@
+{
+  "name": "afaapay-website",
+  "title": "Afa'a Pay Website",
+  "description": "Professional website for Afa'a Pay fintech platform",
+  "framework": "nextjs",
+  "version": "1.0.0"
+}
