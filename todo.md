@@ -1,11 +1,11 @@
-- [ ] Add organization type dropdown selector (Individuals, SMEs, Enterprises, Financial Institutions, Government)
-- [ ] Create dynamic content sections that change based on selected organization type
-- [ ] Design segment-specific hero sections highlighting trust infrastructure benefits
-- [ ] Create segment-specific features and use cases
-- [ ] Update Industries section to show relevant industries per segment
-- [ ] Implement responsive dropdown menu in header
-- [ ] Add segment-specific CTAs and messaging
-- [ ] Create Payment Facilitator component with unified Payment Link
-- [ ] Implement Payment Link that aggregates all payment methods (MTN Money, Orange Money, PayPal, Bank Transfer, etc.)
-- [ ] Show Payment Facilitator benefits for all business types
-- [ ] Add Payment Link feature showcase in Features section
+- [x] Add organization type dropdown selector (Individuals, SMEs, Enterprises, Financial Institutions, Government)
+- [x] Create dynamic content sections that change based on selected organization type
+- [x] Design segment-specific hero sections highlighting trust infrastructure benefits
+- [x] Create segment-specific features and use cases
+- [x] Update Industries section to show relevant industries per segment
+- [x] Implement responsive dropdown menu in header
+- [x] Add segment-specific CTAs and messaging
+- [x] Create Payment Facilitator component with unified Payment Link
+- [x] Implement Payment Link that aggregates all payment methods (MTN Money, Orange Money, PayPal, Bank Transfer, etc.)
+- [x] Show Payment Facilitator benefits for all business types
+- [x] Add Payment Link feature showcase in Features section
