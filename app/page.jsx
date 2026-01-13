@@ -1,8 +1,9 @@
 import Hero from './components/Hero'
 import Features from './components/Features'
+import Industries from './components/Industries'
 import HowItWorks from './components/HowItWorks'
 import Pricing from './components/Pricing'
-import Contact from './components/Contact'
+import ContactFormspree from './components/ContactFormspree'
 import CTA from './components/CTA'
 
 export default function Home() {
@@ -10,10 +11,11 @@ export default function Home() {
     <>
       <Hero />
       <Features />
+      <Industries />
       <HowItWorks />
       <Pricing />
       <CTA />
-      <Contact />
+      <ContactFormspree />
     </>
   )
 }

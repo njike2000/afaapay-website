@@ -1,34 +1,34 @@
 export default function Features() {
   const features = [
     {
-      icon: '🔒',
-      title: 'Secure Escrow',
-      description: 'Hold payments safely until conditions are met. Protect both buyers and sellers with our escrow service.'
+      icon: '🔗',
+      title: 'Payment Links',
+      description: 'Generate unique payment links and share via email or SMS. Customers pay with their preferred method.'
     },
     {
-      icon: '💳',
+      icon: '📱',
       title: 'Multiple Payment Methods',
-      description: 'Accept payments via card, mobile money, bank transfer, and more. All in one unified platform.'
+      description: 'Accept MTN Money, Orange Money, PayPal, bank transfers, and more. All payment networks supported.'
     },
     {
-      icon: '⚡',
-      title: 'Instant Settlement',
-      description: 'Get paid instantly or on your schedule. Fast, reliable settlement to your account.'
+      icon: '📲',
+      title: 'QR Codes',
+      description: 'Accelerate payments with QR codes. No assistance needed - customers scan and pay instantly.'
     },
     {
-      icon: '🛡️',
-      title: 'Fraud Protection',
-      description: 'Advanced fraud detection and prevention. Real-time monitoring keeps your transactions safe.'
+      icon: '💰',
+      title: 'Mass Payments',
+      description: 'Pay salaries, settle invoices, and manage bulk payments in one click. Distribute payments at scale.'
     },
     {
       icon: '📊',
-      title: 'Analytics Dashboard',
-      description: 'Track transactions, monitor performance, and get insights with our comprehensive dashboard.'
+      title: 'Real-Time Analytics',
+      description: 'Track all transactions, generate instant reports, and optimize your payment operations.'
     },
     {
-      icon: '🌍',
-      title: 'Pan-African Coverage',
-      description: 'Operate across Cameroon and CEMAC region. Expand your business across borders.'
+      icon: '🏪',
+      title: 'Hybrid POS (Coming Soon)',
+      description: 'Accept payments at point of sale. Seamless integration for retail and commerce businesses.'
     },
   ]
 
@@ -36,8 +36,8 @@ export default function Features() {
     <section id="features" className="py-20 bg-light">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-bold text-primary mb-4">Powerful Features</h2>
-          <p className="text-xl text-gray-600">Everything you need to manage payments securely and efficiently</p>
+          <h2 className="text-4xl font-bold text-primary mb-4">Powerful Solutions</h2>
+          <p className="text-xl text-gray-600">Complete payment solutions for your business needs</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
